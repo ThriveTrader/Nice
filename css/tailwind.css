@@ -12,6 +12,10 @@
   }
 }
 
+.ccc{
+  color: white;
+}
+
 .cont::before {
   content: "";
   position: fixed;
